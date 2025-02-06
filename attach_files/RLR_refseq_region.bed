@@ -1,0 +1,5 @@
+R-L-R_ref	0	802	Repeat1	802	External segment, same to Chr1: 7406474-7407275
+R-L-R_ref	802	1531	Linker	729	Linker sequence
+R-L-R_ref	802	911	Linker_external	109	External segment
+R-L-R_ref	911	1531	Linker_internal	620	Internal sequence,Chr1: 7405854-7406473
+R-L-R_ref	1531	2333	Repeat2	802	Internal sequence,Chr1: 7406474-7407275
