@@ -5,6 +5,8 @@ Processing of fastq files into bams and vcfs. Filtering reliable mutations
 ## Methylation quantification
 Using Bismark to process the raw data and prodived methylation quantification results.
 
+## RLR_seqs 
+The fasta files contain the R-L-R sequences in the RIP-ed progenies and their coresponding parent strains.
 ## attached files
 Some files containing the information used in this analysis
 ### RLR_refseq_annotation.fas
